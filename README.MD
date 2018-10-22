@@ -29,7 +29,7 @@ A console application that filters through JSON data that represents NYC neighbo
 ## Visual Example
 The program should look like the following:
 ![screenshot](Lab08-LINQ/assets/all.PNG)
-![screenshot](assets/allwithoutblank.PNG)
-![screenshot](assets/allwithoutduplicates.PNG)
-![screenshot](assets/distinctsinglelinequery.PNG)
-![screenshot](assets/distinctwithoutlambda.PNG)
+![screenshot](Lab08-LINQ/assets/allwithoutblank.PNG)
+![screenshot](Lab08-LINQ/assets/allwithoutduplicates.PNG)
+![screenshot](Lab08-LINQ/assets/distinctsinglelinequery.PNG)
+![screenshot](Lab08-LINQ/assets/distinctwithoutlambda.PNG)
